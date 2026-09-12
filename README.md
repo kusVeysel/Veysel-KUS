@@ -1,8 +1,6 @@
 <h1 align="center">Merhaba👋,Ben Veysel Kuş</h1>
 <h3 align="center">Her alanda kendimi geliştiriyorum ama özellikle backend tarafında uğraşmayı ve çalışmayı seviyorum</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusveysel&label=Profile%20views&color=0e75b6&style=flat" alt="kusveysel" /> </p>
-
 - Bitirdiğim proje: [MVC Su Takip](https://github.com/kusVeysel/WebApplication)
 
 - Bitirdiğim proje: [Genel JS Çalışması](https://github.com/kusVeysel/JavaScript/tree/main/proje)
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/veysel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veysel01" height="30" width="40" /></a>
+<a href="https://twitter.com/kusveysel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kusveysel01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/veysel-kuş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veysel-kuş" height="30" width="40" /></a>
 <a href="https://fb.com/kusVeysel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kusVeysel" height="30" width="40" /></a>
 <a href="https://instagram.com/veyselkusss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veyselkusss" height="30" width="40" /></a>
