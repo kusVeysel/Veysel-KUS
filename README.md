@@ -1,13 +1,19 @@
-<h1 align="center">Merhaba👋,Ben Veysel Kuş</h1>
-<h3 align="center">Her alanda kendimi geliştiriyorum ama özellikle backend tarafında uğraşmayı ve çalışmayı seviyorum</h3>
+<h1 align="center">Merhaba 👋, Ben Veysel Kuş</h1>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | Backend & Veritabanı Odaklı Yazılımcı</h3>
 
-- Bitirdiğim proje: [MVC Su Takip](https://github.com/kusVeysel/WebApplication)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+</p>
 
-- Bitirdiğim proje: [Genel JS Çalışması](https://github.com/kusVeysel/JavaScript/tree/main/proje)
-
-- Şuanda öğrendiğim teknolojiler: **C#, MSSQL, .NET MVC, JavaScript, Html, Css, Bootstrap, Jquery, Python, TypeScript, Toastr, React**
-
-- Bana ulaşmak için: **kusveysel00@gmail.com**
+- 🎓 Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim.
+- 🚀 **Öne Çıkan Projelerim:**
+  - [MVC Su Takip](https://github.com/kusVeysel/WebApplication) (C# & MSSQL Web Uygulaması)
+  - [Genel JS Çalışması](https://github.com/kusVeysel/JavaScript/tree/main/proje)
+- 🏆 **Deneyim & Etkinlikler:** SSB Kuantum Programlama Hackathonu (Python & Qiskit)
+- ⚡ **İlgi Alanlarım:** Backend Geliştirme, SQL Veritabanı Mimarisi & İlişkisel Modelleme
+- 📫 **Bana ulaşmak için:** **kusveysel00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
