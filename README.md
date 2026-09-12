@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusveysel&label=Profile%20views&color=0e75b6&style=flat" alt="kusveysel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kusveysel" alt="kusveysel" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=kusVeysel&theme=flat" alt="kusVeysel" /></p>
 
 - Bitirdiğim proje: [MVC Su Takip](https://github.com/kusVeysel/WebApplication)
 
