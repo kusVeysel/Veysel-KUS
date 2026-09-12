@@ -7,9 +7,9 @@
 
 - Bitirdiğim proje: [MVC Su Takip](https://github.com/kusVeysel/WebApplication)
 
-- Şuanda öğrendiğim teknolojiler: **C#, MSSQL, .NET MVC, JavaScript, Html, Css, Bootstrap, Jquery, Python, TypeScript, Toastr, React**
-
 - Bitirdiğim proje: [Genel JS Çalışması](https://github.com/kusVeysel/JavaScript/tree/main/proje)
+
+- Şuanda öğrendiğim teknolojiler: **C#, MSSQL, .NET MVC, JavaScript, Html, Css, Bootstrap, Jquery, Python, TypeScript, Toastr, React**
 
 - Bana ulaşmak için: **kusveysel00@gmail.com**
 
